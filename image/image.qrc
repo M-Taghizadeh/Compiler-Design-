@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/">
+        <file>new.png</file>
+        <file>open.png</file>
+        <file>redu.png</file>
+        <file>undo.png</file>
+        <file>save.ico</file>
+        <file>save_as.png</file>
+        <file>font.png</file>
+        <file>underline.png</file>
+        <file>italic.png</file>
+        <file>bold.png</file>
+        <file>copy.png</file>
+        <file>cut.png</file>
+        <file>exit.png</file>
+        <file>paste.png</file>
+        <file>about.png</file>
+        <file>cg.png</file>
+        <file>lexical.png</file>
+        <file>syntax_analyzer.png</file>
+        <file>theme_default.png</file>
+        <file>theme_dark.png</file>
+        <file>theme_blue.png</file>
+        <file>theme_green.png</file>
+        <file>theme_red.png</file>
+        <file>theme_yellow.png</file>
+        <file>Compiler Design.png</file>
+        <file>syntx_analyzer.png</file>
+    </qresource>
+</RCC>
